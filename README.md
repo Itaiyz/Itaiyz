@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Itai Zemah
 - 👀 I’m interested in Data Science, AI, research and software development 
 - 🌱 I’m currently learning a BSc in Tel Aviv University and working in SolarGik
-- 💞
+- 💞 A Tel-Avivi in Jerusalem
 - 📫 How to reach me- itaiyz97@gmail.com or itai@solargik.com
 
 <!---
