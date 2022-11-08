@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Itai Zemah
 - 👀 I’m interested in Data Science, AI, research and software development 
-- 🌱 Finishing a BSc in Tel Aviv University and working in SolarGik
+- 🌱 Finished a BSc in Tel Aviv University and a student position at SolarGik
 - 💞 A Tel-Avivi in Jerusalem
-- 📫 How to reach me- itaiyz97@gmail.com or itai@solargik.com
+- 📫 How to reach me- itaiyz97@gmail.com
 
 <!---
 Itaiyz/Itaiyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
